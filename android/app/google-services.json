@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "70484479954",
+    "firebase_url": "https://taxolution-4c693-default-rtdb.firebaseio.com",
+    "project_id": "taxolution-4c693",
+    "storage_bucket": "taxolution-4c693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70484479954:android:3dc049de911c117024420b",
+        "android_client_info": {
+          "package_name": "com.example.admin_taxolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70484479954-uh4ff6f06dkej7ll1umgdl3sgg6mpn8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnntuZyAhaDZhiVH4PX4Lb_Gk7TBAX_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70484479954-uh4ff6f06dkej7ll1umgdl3sgg6mpn8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70484479954:android:bd3e412445303bf924420b",
+        "android_client_info": {
+          "package_name": "com.virtualsoft.taxolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70484479954-uh4ff6f06dkej7ll1umgdl3sgg6mpn8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnntuZyAhaDZhiVH4PX4Lb_Gk7TBAX_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70484479954-uh4ff6f06dkej7ll1umgdl3sgg6mpn8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
